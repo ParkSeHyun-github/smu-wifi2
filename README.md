@@ -13,9 +13,10 @@
 
 
 ###       <시안 2>
+<img width="523" alt="시안2 이미지1" src="https://github.com/user-attachments/assets/a7b14e9a-172b-4eb0-9341-5b2d0f62557e">
 
 
-<img width="523" alt="시안2 이미지1" src="https://github.com/user-attachments/assets/aba02038-0d79-4220-aec3-ebd864dff179">
+
 
 
 ###       <시안 3>
