@@ -6,14 +6,18 @@
 기존 smu-wifi 시안 2안 4안을 제거하고 시안 3안 추가
 
 #시안 1
+
 <img width="617" alt="시안1 이미지" src="https://github.com/user-attachments/assets/1c5355f2-b3e5-41c8-a6c1-52b2bb4ef3d5">
 
 
 #시안 2
-<img width="523" alt="시안2 이미지1" src="https://github.com/user-attachments/assets/aba02038-0d79-4220-aec3-ebd864dff179">
 
+
+<img width="523" alt="시안2 이미지1" src="https://github.com/user-attachments/assets/aba02038-0d79-4220-aec3-ebd864dff179">
 <img width="523" alt="시안2 이미지2" src="https://github.com/user-attachments/assets/f865972e-b0fd-49e2-af4e-8846957b202a">
 
 
 #시안 3
+
+
 <img width="617" alt="시안3 이미지" src="https://github.com/user-attachments/assets/7291333a-8d89-4b48-b767-afa2dfcd9248">
