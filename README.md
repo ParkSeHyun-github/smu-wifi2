@@ -5,6 +5,8 @@
 ## 업데이트 내용
 기존 smu-wifi 시안 2안 4안을 제거하고 시안 3안 추가
 
+## 시안 이미지
+
 ### 시안 1
 
 <img width="617" alt="시안1 이미지" src="https://github.com/user-attachments/assets/1c5355f2-b3e5-41c8-a6c1-52b2bb4ef3d5">
